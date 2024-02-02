@@ -1,0 +1,1 @@
+This is a simple and basic chat app that enable public chatting among friends, the app is made in python and is only a basic version, the app lacks a UI and thus can only be used on the terminal, I am yet to do more to make it more usable. Thnk you
